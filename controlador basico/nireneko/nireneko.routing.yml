@@ -1,0 +1,7 @@
+nireneko.view:
+  path: '/nireneko'
+  defaults:
+    _controller: '\Drupal\nireneko\Controller\NirenekoController::view'
+    _title: 'Hola Mundo'
+  requirements:
+    _permission: 'access content'

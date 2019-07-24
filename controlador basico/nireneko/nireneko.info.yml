@@ -1,0 +1,6 @@
+name: 'Nireneko controlador base'
+type: module
+core: 8.x
+description: 'Modulo de ejemplo para introduccion a controladores'
+package: 'Nireneko'
+version: '8.x-1.0'
